@@ -1,12 +1,10 @@
 <div align="center">
-<h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hello , My name is Bilguun</h1> 
+<h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hello , I am Bilguun</h1> 
 <h4 align="center">Full Stack Developer</h4>
 </div>
  
  
 <div>
-<div>- ✌️ Hi, I’m @Bilguungantogos</div> 
-<div> - ✨ FullStack Developer</div> 
 <div> - 🏁 I’m currently learning typescript, javascript,</div> 
 <div> - 🤫 How to reach me ig: blgn.g___</div> 
 </div>
