@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hello , I am Bilguun</h1> 
+<h1 align="center">Hello , I am Bilguun</h1> 
 <h4 align="center">Full Stack Developer</h4>
 </div>
  
  
 <div>
-<div> - 🏁 I’m currently learning typescript, javascript,</div> 
-<div> - 🤫 How to reach me ig: blgn.g___</div> 
+<div> - I’m currently learning typescript, javascript,</div> 
+<div> - How to reach me ig: blgn.g___</div> 
 </div>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilguungantogos&label=Profile%20views&color=0e75b6&style=flat" alt="Bilguungantogos" /> </p>
