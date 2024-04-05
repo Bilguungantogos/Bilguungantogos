@@ -9,7 +9,7 @@
 <div> - How to reach me ig: blgn.g___</div> 
 </div>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bilguungantogos&label=Profile%20views&color=0e75b6&style=flat" alt="Bilguungantogos" /> </p>
+<p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=Bilguungantogos&label=Profile%20views&color=0e75b6&style=flat" alt="Bilguungantogos" /> </p>
   
 ### ⚙️ &nbsp;Tech Stack ⚙️
  
