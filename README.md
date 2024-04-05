@@ -40,14 +40,13 @@
   
  
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
-<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 <p align="center">
 <a href="https://github.com/Bilguungantogos">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilguungantogos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilguungantogos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h3 align="left">🔥 My Stats <3 🔥</h3>
+<h3 align="left">My Stats</h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Bilguungantogos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
