@@ -33,7 +33,7 @@
  
  
 <div align="center">
-<a href="https://github.com/Bilguungatogos">
+<a href="https://github.com/Bilguungantogos">
 <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
