@@ -39,8 +39,8 @@
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
 <p align="center">
 <a href="https://github.com/Bilguungantogos">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arvinbuy7n&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arvinbuy7n&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bilguungantogos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bilguungantogos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <h3 align="left">My Stats</h3>
